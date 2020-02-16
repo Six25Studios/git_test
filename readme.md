@@ -1,0 +1,1 @@
+This is Khai's first git project!
